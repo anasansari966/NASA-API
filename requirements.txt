@@ -1,4 +1,4 @@
-Flask
-requests
-Pillow
-python-dotenv
+Flask==2.0.2
+requests==2.26.0
+Pillow==8.4.0
+python-dotenv==0.19.1
